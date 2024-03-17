@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"989b597cbebc5c4e","type":"text","text":"Paperless (Docker)","x":-248,"y":-110,"width":250,"height":60},
+		{"id":"9a3f08f95aabff95","type":"text","text":"volume","x":-248,"y":-10,"width":250,"height":60},
+		{"id":"e76dcf4562d77b2e","type":"text","text":"rclone plugin","x":-2,"y":-10,"width":250,"height":60},
+		{"id":"6f3311c098b4afee","type":"text","text":"encrypted gdrive as a filesystem","x":-2,"y":50,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a92d458db44b8d02","fromNode":"989b597cbebc5c4e","fromSide":"bottom","toNode":"9a3f08f95aabff95","toSide":"top"}
+	]
+}

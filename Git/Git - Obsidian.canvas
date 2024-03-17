@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"f143067d8529309e","type":"text","text":"Chocaute/LM_kBase/tree/newtown","x":-680,"y":-80,"width":320,"height":55},
+		{"id":"39e5868a05619fd9","type":"text","text":"Chocaute/LM_kBase/tree/oldtown","x":80,"y":-75,"width":310,"height":50},
+		{"id":"f63eb2145e54bbc3","type":"text","text":"oldtown","x":140,"y":160,"width":250,"height":60},
+		{"id":"8946ae22624faffc","type":"text","text":"/Chocaute/LM_kBase (main)","x":-320,"y":-160,"width":360,"height":60},
+		{"id":"85a25fc79bae9c23","type":"text","text":"2 - MERGE main with newtown","x":-650,"y":-210,"width":290,"height":50},
+		{"id":"e02b6a8dac209acd","type":"text","text":"3 - PULL","x":-50,"y":40,"width":130,"height":50},
+		{"id":"1ec95bec334096a8","type":"text","text":"4 - PUSH","x":280,"y":65,"width":140,"height":50},
+		{"id":"fc43bb2176352033","type":"text","text":"2 - PUSH","x":-500,"y":40,"width":140,"height":50},
+		{"id":"d328e256addef3d4","type":"text","text":"newtown","x":-592,"y":160,"width":145,"height":50}
+	],
+	"edges":[
+		{"id":"0be6b492b61f594e","fromNode":"d328e256addef3d4","fromSide":"top","toNode":"f143067d8529309e","toSide":"bottom"},
+		{"id":"68f2dbc903a2b3ca","fromNode":"f143067d8529309e","fromSide":"top","toNode":"8946ae22624faffc","toSide":"left"},
+		{"id":"89996503f15b7154","fromNode":"f63eb2145e54bbc3","fromSide":"top","toNode":"39e5868a05619fd9","toSide":"bottom"},
+		{"id":"aefdfe6251394169","fromNode":"f63eb2145e54bbc3","fromSide":"left","toNode":"8946ae22624faffc","toSide":"bottom"}
+	]
+}
